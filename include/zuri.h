@@ -2,6 +2,7 @@
 #define __ZURI_H__
 
 #include <stdint.h>
+#include <stddef.h>
 
 #ifdef __cplusplus
 extern "C" {
